@@ -1,0 +1,10 @@
+.ColorBox {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
+
+.tall-row td {   height: 5%; width: 5%; border: 1px solid}
